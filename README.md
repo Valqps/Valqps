@@ -1,6 +1,6 @@
 ### Oi, meu nome é Valquiria ✨
 
-- 🖥️ Sou estudante de Bacharelado em **Tecnologia da Informação** na [UNIVESP](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao).
+- 🖥️ Sou estudante do último período de Bacharelado em **Tecnologia da Informação** na [UNIVESP](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao).
 - 🧬 Fiz [doutorado na área de bioquímica](https://www.teses.usp.br/teses/disponiveis/46/46131/tde-27112017-103349/pt-br.php), onde trabalhei com análise de dados e bioinformática.
 - ⚛️ Trabalho na área de educação.
 - 🧵 Nas horas livres, gosto de fazer artesanatos.
