@@ -2,7 +2,7 @@
 
 - 🖥️ Sou estudante do último período de Bacharelado em **Tecnologia da Informação** na [UNIVESP](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao), polo São Paulo capital.
 - 🧬 Fiz [doutorado na área de bioquímica](https://www.teses.usp.br/teses/disponiveis/46/46131/tde-27112017-103349/pt-br.php), onde trabalhei com análise de dados e bioinformática.
-- 🩷 Sou casada e mãe de plantas.
+- 🩷 Sou casada e 🪴 mãe de plantas.
 - ⚛️ Trabalho na área de educação.
 - 🧵 Nas horas livres, gosto de fazer artesanatos.
   
